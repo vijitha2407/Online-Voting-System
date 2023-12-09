@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background:url(https://wallpaperaccess.com/full/2393233.jpg)no-repeat;
+}
+#headsection{
+    padding: 5px;
+}
+#headsection h1{
+    font-family: cursive;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 7px;
+    width: 10%;
+}
+#loginbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
